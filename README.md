@@ -1,3 +1,30 @@
+Goal of the below test:
+
+This is a simple (very last minute) Ruby based coding test that I think is fair for a relatively inexperienced Ruby engineer.
+
+Justifications for this format:
+
+1: Show that the applicant can understand a very (very) simple algorithm.
+
+2: Demonstrate an understanding of web technologies, and the ability to set up a simple server with different end points.
+
+3: Demonstrate a good approach to OO practices (I would expect a decent applicant to have the encoding and decoding logic outside of the endpoint logic.
+
+4: Demonstrate knowledge of end to end tests. I'd expect to see unit tests surrounding the encoding and decoding logic, that demonstrate an understanding of edge cases and the ability to try to break your own code.
+
+5: Demonstrate logic of end to end testing via posting to the end points with RSpec (or something similar).
+
+6: Demonstrate the ability to clearly write commit messages as the application comes together.
+
+7: Demonstrate the ability to to document API end points - if not technically, at least explain how to use them.
+
+I know that these skills are all taught on Makers Academy, so I'd expect any competent junior Ruby engineer to be able to implement this to a relatively good standard.
+
+Please feel free to leave comments / suggestions / improvements, though this does need to go out by the end of the day!
+
+
+
+
 # Run Length Encoding web API
 
 This problem is based around the concept of Run Length Encoding, which a simple form of data compression.
